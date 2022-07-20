@@ -1,3 +1,12 @@
 body{
-    background-color: red;
+    margin: 0;
+}
+.banner-section{
+    border: 1px solid black;
+    width: 1321px;
+    height: 646px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgba(14, 13, 13, 0.500);
 }
