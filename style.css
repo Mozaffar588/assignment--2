@@ -23,6 +23,15 @@ body{
     font-weight: 900;
     font-family: 'poppins';
 }
+.link-button{
+        text-decoration: none;
+        background-color: orange;
+        color: white;
+        font-weight: 700;
+        padding: 10px 30px;
+        border-radius: 5px;
+
+}
 .banner-img img{
     width: 581px;  
     height: 613px;
