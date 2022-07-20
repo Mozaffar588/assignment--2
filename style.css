@@ -5,8 +5,25 @@ body{
     border: 1px solid black;
     width: 1321px;
     height: 646px;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: auto;
     margin-top: 20px;
-    background-color: rgba(14, 13, 13, 0.500);
+    background-color: black;
+    display: flex;
+    padding-left: 30px;
+}
+.banner-info{
+    margin-top: 50px;
+    width: 50%;
+    color: aliceblue;
+
+}
+.banner-info h1{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: 'poppins';
+}
+.banner-img img{
+    width: 581px;  
+    height: 613px;
 }
